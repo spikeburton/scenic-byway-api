@@ -18,13 +18,15 @@ def get_text_nodes(data)
   data.search('//text()').map(&:text)
 end
 
+# find the text node containing the bounds data and coordinates
 ## Return the bounds from the parsed data
 def bounds_data(data)
   bounds = get_text_nodes(data).reject { |x| x !~ /\bbounds\b/ }
   # binding.pry
   # puts bounds
   if bounds.empty?
-    "NO GEODATA AVAILABLE"
+    # "NO GEODATA AVAILABLE"
+    nil
   else
     bounds.first.split('bounds:').last.split(' ').compact.reject { |x| x == '-' }
   end
@@ -55,14 +57,7 @@ def byway_data_to_hash(data)
     name: name_data(data),
     distance: distance_data(data),
     description: description_data(data),
-    bounds: bounds_data(data),
-    long_description: long_description_data(data)
+    bounds: bounds_data(data)
+    # long_description: long_description_data(data)
   }
 end
-
-# ALL_DATA_HASH = ALL_DATA.collect { |x| byway_data_to_hash(x) }
-
-# HTML_DATA = RDoc::Markdown.parse(FIRST.body).accept(formatter)
-# find the text node containing the bounds data and coordinates
-# BOUNDS = Nokogiri::HTML(HTML_DATA).search('//text()').map(&:text).delete_if { |x| x !~ /\bbounds\b/ }
-# Pry.start
