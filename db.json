@@ -1,172 +1,291 @@
 {
-  "byways": [
-    {
-      "name": "Altamaha Historic Scenic Byway",
-      "distance": "17",
-      "description": "This Byway lets visitors explore both the rich cultural heritage and the diverse marsh ecosystems found along Georgia's coast.",
-      "bounds": [
-        "-81.46089899999998",
-        "31.307020000000136",
-        "-81.36354099999994",
-        "31.46268100000009"
-      ],
-      "long_description": "The Altamaha Historic Scenic Byway displays a collage of history; from Guale Indians and 16th and 17th century Spanish missionaries to the pre-colonial occupation of Fort King George; from hardy Scottish Highland soldiers and colonists to the rice and cotton planters who succeeded them. Descendants of early African slaves who built the nineteenth-century plantations live in the area today, contributing their culture and traditions to life in communities scattered along the byway. The Geechee community still survives on Sapelo Island and descendants of the 177 Scottish Highlanders who first settled Darien are scattered throughout McIntosh County. Enhanced by the archaeological remnants of a long ago era, this byway adds a rich cultural and historical note to the ecological beauty found in the present."
-    },
-    {
-      "name": "Cohutta-Chattahoochee Scenic Byway",
-      "distance": "54",
-      "description": "Beginning at historic Prater's Mill in Whitfield County, this byway rolls past pastoral lands, quiet country roads, views of the Cohutta Mountains, and the Chattahoochee National Forest.",
-      "bounds": [
-        "-84.93921700016443",
-        "34.74065000039718",
-        "-84.62367199976296",
-        "34.95758100016303"
-      ],
-      "long_description": "Beginning at historic Prater's Mill in Whitfield County, this byway rolls past pastoral lands, quiet country roads, views of the Cohutta Mountains, and the Chattahoochee National Forest."
-    },
-    {
-      "name": "Enduring Farmlands Scenic Byway",
-      "distance": "65",
-      "description": "The Enduring Farmlands Scenic Byway winds through the historic towns of Hawkinsville, Pineview, Rochelle, and Abbeville, showcasing the area’s rural character and pastoral landscapes.",
-      "bounds": [
-        "-83.50334899999996",
-        "31.950821000000133",
-        "-83.30689199999995",
-        "32.282107999999994"
-      ],
-      "long_description": "With peaceful rural character and 65 miles of pastoral landscapes, the Enduring Farmlands Scenic Byway allows travelers to appreciate the efforts that the cities and counties in central Georgia have taken to preserve their small-town agricultural heritage. The byway winds through the historic towns of Hawkinsville, Pineview, Rochelle, and Abbeville. Farmlands along the byway produce a variety of colorful crops, including corn, cotton, peanuts, soybeans, peaches, blueberries, and grapes. This homey byway houses scenic pecan groves, horse and cattle pasture lands, farmers markets and festivals, Civil War heritage sites, and the Ocmulgee River. Travelers can also appreciate the historic architecture of several notable churches, the Lawrence Bennett Harness Horse racetrack, and Hawkinsville’s Old Opera House."
-    },
-    {
-      "name": "Historic Effingham-Ebenezer Scenic Byway",
-      "distance": "60",
-      "description": "The Historic Effingham-Ebenezer Scenic Byway takes travelers along a history-rich route through the communities of Ebenezer, Guyton, Springfield, and Rincon and showcases the beauty of one of Georgia’s eight original counties.",
-      "bounds": [
-        "-81.44922600017975",
-        "32.124728999843455",
-        "-81.18119800028745",
-        "32.53192900012323"
-      ],
-      "long_description": "The Historic Effingham-Ebenezer Scenic Byway showcases the history and beauty of one of Georgia’s eight original counties as well as the community of Ebenezer, which was founded by German Lutherans seeking religious freedom in the 1730s. The route follows 60 miles of state and local roads through the communities of Guyton, Springfield, and Rincon. Travelers wishing to recreate George Washington’s 1791 Southern tour or General Sherman’s March to the Sea can visit the sites of taverns dating back to the American Revolution, watch ferries along the Savannah River, discover the University of Georgia’s Forest Education Center, or encounter the numerous historic churches of Effingham County."
-    },
-    {
-      "name": "Historic Piedmont Scenic Byway",
-      "distance": "85",
-      "description": "This route reveals a region of Georgia that is rich in historic and cultural qualities. The Piedmont is also on display as the byway travels through the Oconee National Forest.",
-      "bounds": [
-        "-83.53991699999995",
-        "33.27539800000005",
-        "-82.66655700000001",
-        "33.40690999999998"
-      ],
-      "long_description": "This route reveals a region of Georgia that is rich in historic and cultural qualities. The Piedmont is also on display as the byway travels through the Oconee National Forest."
-    },
-    {
-      "name": "Interstate 185",
-      "distance": "39",
-      "description": "Trees, trees, and more trees is what you will see as you drive north on Interstate 185 from Columbus to Interstate 85.",
-      "bounds": [
-        "-85.02158399999996",
-        "32.56693999999999",
-        "-84.94518299999993",
-        "33.061562000000094"
-      ],
-      "long_description": "Trees, trees, and more trees is what you will see as you drive north on Interstate 185 from Columbus to Interstate 85."
-    },
-    {
-      "name": "Meriwether-Pike Scenic Byway",
-      "distance": "55",
-      "description": "Celebrating the unique legacy of President Franklin Delano Roosevelt, the Meriwether-Pike Scenic Byway takes visitors past several historic sites, including the Little White House in Warm Springs.",
-      "bounds": [
-        "-84.70034800000002",
-        "32.84219000000013",
-        "-84.46009100000003",
-        "33.10839800000002"
-      ],
-      "long_description": "Celebrating the unique legacy of President Franklin Delano Roosevelt, the Meriwether-Pike Scenic Byway takes visitors past several historic sites, including the Little White House in Warm Springs."
-    },
-    {
-      "name": "Millen-Jenkins County Scenic Byway",
-      "distance": "35",
-      "description": "The 35-mile route begins along Cotton Avenue in the Millen historic district, traverses state and county roads in Jenkins County, and ends at SR 17 in Millen.",
-      "bounds": [
-        "-82.128693",
-        "32.80284900000004",
-        "-81.88323999999994",
-        "32.91675900000001"
-      ],
-      "long_description": "Magnolia Springs State Park is located 3 miles from the intersection of SR 17 and US 25, and features crystal clear springs, hiking/biking trails, and the Historic Fort Lawton, an 1864 prisoner-of-war camp. The Fort Lawton Historic Trail and the Bo Ginn Aquarium are also found in the park."
-    },
-    {
-      "name": "Monticello Crossroads Scenic Byway",
-      "distance": "28.79",
-      "description": "The route passes through woodlands, pastures, pecan groves and rolling grasslands.",
-      "bounds": [
-        "-83.76293199991187",
-        "33.28984100016203",
-        "-83.55066700038174",
-        "33.46699900040352"
-      ],
-      "long_description": "Pine forests and rolling pastures dominate the views along the Monticello Crossroads Scenic Byway as it runs through Jasper County. This 29-mile byway emphasizes the rural and historic qualities of the area as it follows State Highways 11 and 83 heading north from the town of Monticello. Native Americans, as well as evangelical Methodist Circuit Riders, once used these routes as they crossed the state. Highway 83 was also part of the Seven Island Stagecoach Road that ran from Augusta to New Orleans and the Natchez Trace. Several individual structures as well as the central business district of Monticello have been listed on the National Register of Historic Places."
-    },
-    {
-      "name": "Ocmulgee-Piedmont Scenic Byway",
-      "distance": "21",
-      "description": "The Ocmulgee-Piedmont Scenic Byway traverses 200 years of Jones County history as well as the pre-historic and historic sites of the Creek Indians that lived there in the 17th and 18th centuries.",
-      "bounds": [
-        "-83.799957",
-        "33.00957900000009",
-        "-83.53395799999993",
-        "33.11967099999998"
-      ],
-      "long_description": "Features of this byway include:"
-    },
-    {
-      "name": "Ridge and Valley Scenic Byway",
-      "distance": "50.71",
-      "description": "This byway provides a chance to experience the varied terrain of northwest Georgia as it travels U.S. 27, State Highways 156 and 136, and rural county roads.",
-      "bounds": [
-        "-85.26914199999999",
-        "34.39236800000009",
-        "-85.07882699999993",
-        "34.67381999999998"
-      ],
-      "long_description": "As the name implies, the Ridge and Valley Scenic Byway provides a chance to experience the varied terrain of northwest Georgia.  Mountain overlooks and fertile farmlands can be found along the 51-mile byway as it travels U.S. 27, State Highways 156 and 136, and rural county roads.  Outdoor activities ranging from hiking, camping, and picnicking to fishing and hunting can be enjoyed at the Keown Falls Scenic Area, the Pocket, and John's Mountain Overlook and Wildlife Management Area. The surrounding countryside also holds the histories of the native Cherokee Indian Nation; Civil War battles; and early settlers whose farmhouses, built in the 1800s, still stand."
-    },
-    {
-      "name": "Russell-Brasstown National Scenic Byway",
-      "distance": "40.64",
-      "description": "Surrounded by the beauty of the Chattahoochee National Forest, the byway winds through the valleys and mountain gaps of the southern Appalachians. From the vistas atop Brasstown Bald to the cooling mists of waterfalls, scenic wonders fill this region. Hike the Appalachian Trail or fish in a cool mountain stream.",
-      "bounds": [
-        "-83.8838730004386",
-        "34.69337100007158",
-        "-83.73014100040683",
-        "34.874551"
-      ],
-      "long_description": "Surrounded by the beauty of the Chattahoochee National Forest, the byway winds through the valleys and mountain gaps of the southern Appalachians. From the vistas atop Brasstown Bald to the cooling mists of waterfalls, scenic wonders fill this region. Hike the Appalachian Trail or fish in a cool mountain stream."
-    },
-    {
-      "name": "South Fulton Scenic Byway",
-      "distance": "29.47",
-      "description": "This 29-mile loop in south Fulton County highlights the rural character and lifestyle of the surrounding area.",
-      "bounds": [
-        "-84.81343800000002",
-        "33.51252000000011",
-        "-84.68746899999996",
-        "33.63134000000008"
-      ],
-      "long_description": "This 29-mile loop in south Fulton County highlights the rural character and lifestyle of the surrounding area. Situated among rolling hills, forested ridges, and serene pastures, the South Fulton Scenic Byway uses Cochran Mill Road, Hutcheson Ferry Road, and State Highway 70 to guide visitors through this quiet corner of metropolitan Atlanta. In addition to the historic communities and farmhouses found along the byway, visitors can enjoy Cochran Mill Park, Cochran Mill Nature Center, and the nearby Chattahoochee River, which provide many recreational opportunities."
-    },
-    {
-      "name": "Warren County-Piedmont Scenic Byway Extension",
-      "distance": "11",
-      "description": "An extension of the Piedmont Scenic Byway, the Warren County-Piedmont extension was once part of the old Native American Okfuskee Trail, which connected what is now Augusta with the Mississippi River.",
-      "bounds": [
-        "-82.78478199999995",
-        "33.29418199999998",
-        "-82.66200299999997",
-        "33.40700100000004"
-      ],
-      "long_description": "The byway traverses eleven miles of gently rolling hills on State Route 16 from the Hancock/Warren County line to the intersection of State Route 12 in the city of Warrenton, passing a wildlife management area, farmland, rivers, and historic properties. Included on the byway are the Cities of Jewell and Warrenton, both listed as districts in the National Register of Historic Places. The byway has been featured on the Tour de Georgia race route two times and offers ample opportunity for recreation such as cycling, golfing, boating, fishing, hunting, camping, hiking, and equine activities."
-    }
-  ]
+  "byways": {
+    "AL": [
+      {
+        "id": 1,
+        "name": "Alabama's Coastal Connection",
+        "distance": "130",
+        "description": "Alabama's southern tip is a place where even first-time visitors find a connection. Here, you can experience the links between the traditions of the Deep South and a more laid-back island lifestyle, between the wildlife of thousands of acres of preserved lands and a beachfront vacation, and between the gunships of past naval battles and the countless recreational opportunities of the present. Make your own connection from the moment you take in one of the area's exceptional sights. As you journey on the route, see the sun sinking into the warm Gulf of Mexico, the weathered halls of a 150-year-old brick fort, the flutter of a colorful neo-tropical migrant bird, or a fishing boat easing from the dock at sunrise.",
+        "bounds": [
+          "-88.34121700016442",
+          "30.229280000371716",
+          "-87.51654099966737",
+          "30.655768999839438"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Alabama's Stagecoach Route Through Leeds",
+        "distance": "18",
+        "description": "Central Alabama's longest-lived stagecoach route passes through Leeds as it curves and slopes alongside the Little Cahaba River and nestles between Appalachian foothills.",
+        "bounds": [
+          "-86.62679299999996",
+          "33.475208000000066",
+          "-86.54714199999995",
+          "33.54595200000006"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Appalachian Highlands Scenic Byway",
+        "distance": "80",
+        "description": "The byway traverses an area of diverse beauty from the deepest canyon east of the Mississippi to the highest point in Alabama.",
+        "bounds": [
+          "-85.76761599999992",
+          "33.62165800000008",
+          "-85.59033999999991",
+          "34.453629000000035"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Barbour County Governor's Trail",
+        "distance": "55",
+        "description": "The Barbour County Governors Trails highlights the six men that have been elected governor of Alabama from Barbour County.",
+        "bounds": [
+          "-85.61049699999995",
+          "31.708771000000013",
+          "-85.14555399999995",
+          "31.894408999999996"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Black Belt Nature and Heritage Trail",
+        "distance": "210",
+        "description": "Change has occurred in a host of different ways in the Black Belt region of Alabama, but one way or another, whether dramatic or barely visible, change–in culture, society and nature–has long been a staple in this decidedly rural and outwardly traditional region.",
+        "bounds": [
+          "-88.40328999999991",
+          "32.26211900000004",
+          "-85.00077099999999",
+          "32.51113900000013"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Black Warrior River Scenic Byway",
+        "distance": "12",
+        "description": "Come visit the Black Warrior River Scenic Byway. It passes through about 12 miles of road on both sides of the river, and stretches from Capitol Park, along Jack Warner Parkway, to Bryant Bridge. At one point, the byway runs parallel of the Rice Mine Road on its way to downtown. websites:  - url:",
+        "bounds": null
+      },
+      {
+        "id": 7,
+        "name": "Lookout Mountain Parkway",
+        "distance": "50",
+        "description": "The Lookout Mountain Parkway spans three states as it stretches across Lookout Mountain from Gadsden, Alabama to Chattanooga, Tennessee. Within its 93 miles are waterfalls, canyons, scenic vistas, unique towns and villages, state and national parks and preserves, and many more natural wonders.",
+        "bounds": [
+          "-86.02712999999994",
+          "34.040451000000076",
+          "-85.31500199999994",
+          "35.030602000000044"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Natchez Trace Parkway - Alabama",
+        "distance": "32",
+        "description": "The Natchez Trace in Alabama, though short, is rich in history. It encompasses Freedom Hills Overlook, Rock Springs, and Colbert Ferry, where George Colbert charged Andrew Jackson $75,000 for ferry services. Get a taste of the South as you traverse the cotton fields of Alabama.",
+        "bounds": [
+          "-88.13079099999993",
+          "34.64482099999992",
+          "-87.82048800000001",
+          "35.00518000000005"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Selma to Montgomery March Byway",
+        "distance": "54",
+        "description": "Journey through history along the trail that marks one of the major historic events in 20th-century American history, the 1965 Selma to Montgomery March, led by Martin Luther King, Jr. Wind through the streets of Selma; pass through countryside where marchers spent the night on their way to Montgomery.",
+        "bounds": [
+          "-87.01995099999999",
+          "32.261688000000106",
+          "-86.30126999999993",
+          "32.414878999999985"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Talladega Scenic Drive",
+        "distance": "26.4",
+        "description": "Talladega Drive offers a bird's-eye view of scenic mountains, rock outcroppings, and small rural settlements within the Talladega National Forest. Heading towards Cheaha State Park and Alabama's highest peak, with an elevation of 2,407 feet, travel the backbone of Horseblock and Cheaha Mountains, the southernmost extension of the Appalachian Mountains.",
+        "bounds": [
+          "-85.875969",
+          "33.40414800000008",
+          "-85.62799799999999",
+          "33.64584000000008"
+        ]
+      }
+    ],
+    "GA": [
+      {
+        "id": 1,
+        "name": "Altamaha Historic Scenic Byway",
+        "distance": "17",
+        "description": "This Byway lets visitors explore both the rich cultural heritage and the diverse marsh ecosystems found along Georgia's coast.",
+        "bounds": [
+          "-81.46089899999998",
+          "31.307020000000136",
+          "-81.36354099999994",
+          "31.46268100000009"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Cohutta-Chattahoochee Scenic Byway",
+        "distance": "54",
+        "description": "Beginning at historic Prater's Mill in Whitfield County, this byway rolls past pastoral lands, quiet country roads, views of the Cohutta Mountains, and the Chattahoochee National Forest.",
+        "bounds": [
+          "-84.93921700016443",
+          "34.74065000039718",
+          "-84.62367199976296",
+          "34.95758100016303"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Enduring Farmlands Scenic Byway",
+        "distance": "65",
+        "description": "The Enduring Farmlands Scenic Byway winds through the historic towns of Hawkinsville, Pineview, Rochelle, and Abbeville, showcasing the area’s rural character and pastoral landscapes.",
+        "bounds": [
+          "-83.50334899999996",
+          "31.950821000000133",
+          "-83.30689199999995",
+          "32.282107999999994"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Historic Effingham-Ebenezer Scenic Byway",
+        "distance": "60",
+        "description": "The Historic Effingham-Ebenezer Scenic Byway takes travelers along a history-rich route through the communities of Ebenezer, Guyton, Springfield, and Rincon and showcases the beauty of one of Georgia’s eight original counties.",
+        "bounds": [
+          "-81.44922600017975",
+          "32.124728999843455",
+          "-81.18119800028745",
+          "32.53192900012323"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Historic Piedmont Scenic Byway",
+        "distance": "85",
+        "description": "This route reveals a region of Georgia that is rich in historic and cultural qualities. The Piedmont is also on display as the byway travels through the Oconee National Forest.",
+        "bounds": [
+          "-83.53991699999995",
+          "33.27539800000005",
+          "-82.66655700000001",
+          "33.40690999999998"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Interstate 185",
+        "distance": "39",
+        "description": "Trees, trees, and more trees is what you will see as you drive north on Interstate 185 from Columbus to Interstate 85.",
+        "bounds": [
+          "-85.02158399999996",
+          "32.56693999999999",
+          "-84.94518299999993",
+          "33.061562000000094"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Meriwether-Pike Scenic Byway",
+        "distance": "55",
+        "description": "Celebrating the unique legacy of President Franklin Delano Roosevelt, the Meriwether-Pike Scenic Byway takes visitors past several historic sites, including the Little White House in Warm Springs.",
+        "bounds": [
+          "-84.70034800000002",
+          "32.84219000000013",
+          "-84.46009100000003",
+          "33.10839800000002"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Millen-Jenkins County Scenic Byway",
+        "distance": "35",
+        "description": "The 35-mile route begins along Cotton Avenue in the Millen historic district, traverses state and county roads in Jenkins County, and ends at SR 17 in Millen.",
+        "bounds": [
+          "-82.128693",
+          "32.80284900000004",
+          "-81.88323999999994",
+          "32.91675900000001"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Monticello Crossroads Scenic Byway",
+        "distance": "28.79",
+        "description": "The route passes through woodlands, pastures, pecan groves and rolling grasslands.",
+        "bounds": [
+          "-83.76293199991187",
+          "33.28984100016203",
+          "-83.55066700038174",
+          "33.46699900040352"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Ocmulgee-Piedmont Scenic Byway",
+        "distance": "21",
+        "description": "The Ocmulgee-Piedmont Scenic Byway traverses 200 years of Jones County history as well as the pre-historic and historic sites of the Creek Indians that lived there in the 17th and 18th centuries.",
+        "bounds": [
+          "-83.799957",
+          "33.00957900000009",
+          "-83.53395799999993",
+          "33.11967099999998"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Ridge and Valley Scenic Byway",
+        "distance": "50.71",
+        "description": "This byway provides a chance to experience the varied terrain of northwest Georgia as it travels U.S. 27, State Highways 156 and 136, and rural county roads.",
+        "bounds": [
+          "-85.26914199999999",
+          "34.39236800000009",
+          "-85.07882699999993",
+          "34.67381999999998"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Russell-Brasstown National Scenic Byway",
+        "distance": "40.64",
+        "description": "Surrounded by the beauty of the Chattahoochee National Forest, the byway winds through the valleys and mountain gaps of the southern Appalachians. From the vistas atop Brasstown Bald to the cooling mists of waterfalls, scenic wonders fill this region. Hike the Appalachian Trail or fish in a cool mountain stream.",
+        "bounds": [
+          "-83.8838730004386",
+          "34.69337100007158",
+          "-83.73014100040683",
+          "34.874551"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "South Fulton Scenic Byway",
+        "distance": "29.47",
+        "description": "This 29-mile loop in south Fulton County highlights the rural character and lifestyle of the surrounding area.",
+        "bounds": [
+          "-84.81343800000002",
+          "33.51252000000011",
+          "-84.68746899999996",
+          "33.63134000000008"
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Warren County-Piedmont Scenic Byway Extension",
+        "distance": "11",
+        "description": "An extension of the Piedmont Scenic Byway, the Warren County-Piedmont extension was once part of the old Native American Okfuskee Trail, which connected what is now Augusta with the Mississippi River.",
+        "bounds": [
+          "-82.78478199999995",
+          "33.29418199999998",
+          "-82.66200299999997",
+          "33.40700100000004"
+        ]
+      }
+    ]
+  }
 }

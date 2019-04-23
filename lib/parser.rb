@@ -52,8 +52,9 @@ def distance_data(data)
   str.split('distance:').last.split('duration:').first.split('description').first.tr('“', '').tr('”', '').strip
 end
 
-def byway_data_to_hash(data)
+def byway_data_to_hash(data, id)
   {
+    id: id,
     name: name_data(data),
     distance: distance_data(data),
     description: description_data(data),
